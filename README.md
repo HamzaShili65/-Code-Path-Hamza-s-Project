@@ -16,9 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<p align=”center”>
 <img src="https://github.com/HamzaShili65/-Code-Path-Hamza-s-Project/assets/98858609/9829c03f-a630-4f15-9600-f57550df6625" alt="Video Walkthrough" width="300"/>
-</p>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
 <!-- Recommended tools:
