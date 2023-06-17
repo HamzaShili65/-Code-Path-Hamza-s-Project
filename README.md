@@ -17,10 +17,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/HamzaShili65/-Code-Path-Hamza-s-Project/assets/98858609/250cf761-6d60-4170-aed4-5d937360f541) title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Video Walkthrough](https://github.com/HamzaShili65/Code-Path-Hamza-s-Project/assets/98858609/250cf761-6d60-4170-aed4-5d937360f541.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
