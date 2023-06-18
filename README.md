@@ -2,7 +2,8 @@
 
 Submitted by: **Hamza ElMokhtar Shili**
 
-**[Code Path] Hamza's Project** is an app that... [TODO] 
+**[Code Path] Hamza's Project** is an app that displays my name, university, and future job. It also has a button that
+, once clicked, changes the background color randomly
 
 Time spent: **1** hours spent in total
 
